@@ -1,8 +1,4 @@
-![Group 23](https://github.com/user-attachments/assets/4e84251a-27b0-462b-bd5e-fb0bcadc4694)
-
-### The world’s most high-end designed, lightweight, and feature-rich learning management system.
-
-# CourseMate: Open source learning management system
+# CourseMate: learning management system
 
 Learning management system using Django web framework. You might want to develop a learning management system (also known as a school/college management system) for a school/college organization, or simply for the purpose of learning the tech stack and enhancing your portfolio. In either case, this project would be a great way to get started. The aim is to create the world's most lightweight yet feature-rich learning management system. However, this is not possible without your support, so please give it a star ⭐️.
 
@@ -87,11 +83,3 @@ python manage.py runserver
 ```
 
 Last but not least, go to this address http://127.0.0.1:8000
-
-#### _Check [this page](https://adilmohak.github.io/dj-lms-starter/) for more insight and support._
-
-# References
-
-- Quiz part: https://github.com/tomwalker/django_quiz
-
-#### Show your support by ⭐️ this project!
